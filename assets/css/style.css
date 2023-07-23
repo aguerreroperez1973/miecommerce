@@ -22,7 +22,7 @@ nav{
     grid-area: nav;
     background-color: #154c79;
     width: 100%;
-    height: 5vh;
+    height: 4vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,8 +32,7 @@ nav{
 
 /* MENU ************************************************/
 aside {
-
-    padding: 0px 25px 0px 8px;
+    padding: 0px 35px 0px 8px;
     grid-area: aside;
     height: auto;
     background-color: #e4e4e4;
@@ -95,6 +94,7 @@ main{
 .pricprod{
     font-size: 10px;
     margin: 3px 0px 7px 0px;
+    color: grey;
 }
 
 .btonprod{
@@ -122,7 +122,7 @@ main{
 footer{
     grid-area: footer;
     background-color: whitesmoke;
-    height: 5vh;
+    height: 3.5vh;
     display: flex;
     justify-content: center;
     align-items: center;
